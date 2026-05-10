@@ -1,16 +1,16 @@
-```md id="9d1jwp"
+
 # Hi, I'm Yosi 👋
 
-```md id="u9e5qj"
+
 ## 📂 Featured Projects
 - [Malware-Forensics-Lab](https://github.com/yosiismalov/Malware-Forensics-Lab)
 - [Vulnerability-Management-Lab](https://github.com/yosiismalov/Vulnerability-Management-Lab)
 - [Penetration-Testing-Lab](https://github.com/yosiismalov/Penetration-Testing-Lab)
-```
 
-```md id="tx4g91"
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosiismalov&show_icons=true&theme=dark)
-```
+
 
 Security Researcher focused on Web Security, API Security, GraphQL Security, and Digital Forensics.
 
