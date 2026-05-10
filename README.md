@@ -1,16 +1,45 @@
-## Hi there 👋
+```md id="9d1jwp"
+# Hi, I'm Yosi 👋
 
-<!--
-**yosiismalov/yosiismalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Researcher focused on Web Security, API Security, GraphQL Security, and Digital Forensics.
 
-Here are some ideas to get you started:
+## 🛡️ Areas of Interest
+- Web Application Security
+- API Security
+- GraphQL Security
+- Vulnerability Management
+- Penetration Testing
+- Digital Forensics & DFIR
+- Bug Bounty Hunting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tools & Technologies
+- Kali Linux
+- Burp Suite
+- sqlmap
+- Metasploit
+- Nessus Essentials
+- Nmap
+- Wireshark
+- Autopsy
+- PowerShell
+- Bash
+
+## 📂 Featured Projects
+- Malware-Forensics-Lab
+- Vulnerability-Management-Lab
+- Penetration-Testing-Lab
+
+## 📜 Certifications
+- Practical API Hacking – TCM Security
+- Practical Bug Bounty – TCM Security
+- Linux Essentials – LPI
+- Ethical Hacking – HackerU
+- TDX Arena Penetration Tester
+
+## 🌐 Profiles
+- HackerOne: https://hackerone.com/yosi00159
+- Hack The Box: https://app.hackthebox.com/users/yosi00159
+
+## 🎯 Current Focus
+Building hands-on cybersecurity labs, improving offensive security skills, and researching modern web and API vulnerabilities.
+```
