@@ -1,56 +1,28 @@
+# Yosi Ismalov
 
-# Hi, I'm Yosi 👋
+Security Researcher focused on Web Security, API Security, AI Security, Threat Detection, and Vulnerability Research.
 
-
-## 📂 Featured Projects
-- [Malware-Forensics-Lab](https://github.com/yosiismalov/Malware-Forensics-Lab)
-- [Vulnerability-Management-Lab](https://github.com/yosiismalov/Vulnerability-Management-Lab)
-- [Penetration-Testing-Lab](https://github.com/yosiismalov/Penetration-Testing-Lab)
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosiismalov&show_icons=true&theme=dark)
-
-
-Security Researcher focused on Web Security, API Security, GraphQL Security, and Digital Forensics.
-
-## 🛡️ Areas of Interest
-- Web Application Security
-- API Security
+## Areas of Interest
+- AI Security & Prompt Injection
+- Web & API Security
 - GraphQL Security
-- Vulnerability Management
-- Penetration Testing
-- Digital Forensics & DFIR
-- Bug Bounty Hunting
+- SIEM & Threat Detection
+- Vulnerability Research
+- DFIR & Malware Analysis
 
-## ⚙️ Tools & Technologies
-- Kali Linux
-- Burp Suite
-- sqlmap
-- Metasploit
-- Nessus Essentials
-- Nmap
-- Wireshark
-- Autopsy
-- PowerShell
-- Bash
-
-## 📂 Featured Projects
-- Malware-Forensics-Lab
-- Vulnerability-Management-Lab
+## Featured Projects
+- AI-Security-Research
+- SIEM-Threat-Detection-Lab
 - Penetration-Testing-Lab
+- Vulnerability-Management-Lab
+- Malware-Forensics-Lab
 
-## 📜 Certifications
-- Practical API Hacking – TCM Security
-- Practical Bug Bounty – TCM Security
-- Linux Essentials – LPI
-- Ethical Hacking – HackerU
-- TDX Arena Penetration Tester
+## Tools & Technologies
+Burp Suite • Microsoft Sentinel • Nessus • Wireshark • Nmap • Metasploit • Python • Bash • GraphQL • PowerShell
 
-## 🌐 Profiles
-- HackerOne: https://hackerone.com/yosi00159
-- Hack The Box: https://app.hackthebox.com/users/yosi00159
-
-## 🎯 Current Focus
-Building hands-on cybersecurity labs, improving offensive security skills, and researching modern web and API vulnerabilities.
-```
+## Certifications & Training
+- Linux Essentials (LPI)
+- TDX Penetration Tester
+- TCM Practical API Hacking
+- TCM Practical Bug Bounty
+- HackerU Cybersecurity Program
