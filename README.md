@@ -4,7 +4,9 @@ Security Researcher focused on Web Security, API Security, AI Security, Threat D
 
 ## Security Research Tools
 
-Storefront: https://yosiismalov.gumroad.com/
+- Free Bug Bounty Wordlists Starter Pack: https://yosiismalov.gumroad.com/l/bug-bounty-wordlists-starter?utm_source=github&utm_medium=community_repo&utm_campaign=starter_pack
+
+Storefront: https://yosiismalov.gumroad.com/?utm_source=github&utm_medium=profile&utm_campaign=storefront
 
 - VulnHunter-AI Pro: https://yosiismalov.gumroad.com/l/vulnhunter-ai-pro
 - Bug Bounty Wordlists Pro: https://yosiismalov.gumroad.com/l/bug-bounty-wordlists-pro
